@@ -1,0 +1,144 @@
+[
+  {
+    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
+    "Title": "Why lesson one was so darn hard",
+    "Image": "playlists/remotesite.png",
+    "LevelId": null,
+    "AudienceId": null,
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "CatId": "103dc18a-8188-434c-b28c-1a15b2b182bc",
+    "Description": "Learn all about the PnP remote provisioning model.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "b53e628a-3558-44be-b14e-1a9700c9c37a",
+      "9faefc4b-60e8-46ef-892c-791e030a8d28",
+      "2819116b-ce59-41aa-8a50-a9cb5af1be45",
+      "2d194e23-a11c-4821-bc68-7a57c7cd2940",
+      "3b72f30f-1438-4551-b009-8ad6f7d924a2",
+      "22a36fe4-99c7-4ae1-b9d3-9404fcb05595"
+    ]
+  },
+  {
+    "Id": "7ea7584c-1d5f-456e-8bd8-607bcdbc747f",
+    "Title": "Whatever you think you're selling, you're probably not",
+    "Image": "playlists/remotesite.png",
+    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+    "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "CatId": "103dc18a-8188-434c-b28c-1a15b2b182bc",
+    "Description": "Learn all about the PnP remote provisioning model.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "9faefc4b-60e8-46ef-892c-791e030a8d28",
+      "8dcba564-d82a-4220-b5ad-f2f55f67fa29"
+    ]
+  },
+  {
+    "Id": "7cfb3cdb-89a5-407e-a112-69fa17dba7c1",
+    "Title": "The worldview of your customer",
+    "Image": "playlists/remotesite.png",
+    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+    "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "CatId": "103dc18a-8188-434c-b28c-1a15b2b182bc",
+    "Description": "Learn all about the PnP remote provisioning model.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "9faefc4b-60e8-46ef-892c-791e030a8d28",
+      "8dcba564-d82a-4220-b5ad-f2f55f67fa29"
+    ]
+  },
+  {
+    "Id": "25ca75c3-435b-4a51-b996-b2d836a5c714",
+    "Title": "Worldview and worlds",
+    "Image": "playlists/remotesite.png",
+    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+    "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "CatId": "103dc18a-8188-434c-b28c-1a15b2b182bc",
+    "Description": "Learn all about the PnP remote provisioning model.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "9faefc4b-60e8-46ef-892c-791e030a8d28",
+      "8dcba564-d82a-4220-b5ad-f2f55f67fa29"
+    ]
+  },
+  {
+    "Id": "446e210e-cc29-467a-a727-80ee5bd4840d",
+    "Title": "No matter what, you will always represent something",
+    "Image": "playlists/remotesite.png",
+    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+    "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "CatId": "103dc18a-8188-434c-b28c-1a15b2b182bc",
+    "Description": "Learn all about the PnP remote provisioning model.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "9faefc4b-60e8-46ef-892c-791e030a8d28",
+      "8dcba564-d82a-4220-b5ad-f2f55f67fa29"
+    ]
+  },
+  {
+    "Id": "3976b209-1967-4289-ab19-e4b67367f611",
+    "Title": "Using worldview to find each other",
+    "Image": "playlists/remotesite.png",
+    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+    "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "CatId": "103dc18a-8188-434c-b28c-1a15b2b182bc",
+    "Description": "Learn all about the PnP remote provisioning model.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "9faefc4b-60e8-46ef-892c-791e030a8d28",
+      "8dcba564-d82a-4220-b5ad-f2f55f67fa29"
+    ]
+  },
+  {
+    "Id": "13cfc6db-bf74-495d-bdac-5345b2bb6ae0",
+    "Title": "Introduction",
+    "Image": "playlists/remotesite.png",
+    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+    "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "CatId": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
+    "Description": "Learn all about the PnP remote provisioning model.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": ["3b72f30f-1438-4551-b009-8ad6f7d924a2"]
+  },
+  {
+    "Id": "08322e2d-6c80-4a3b-8316-77d7ea063bec",
+    "Title": "Hook statement prompt: Violating expectations. Hard.",
+    "Image": "playlists/remotesite.png",
+    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+    "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "CatId": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
+    "Description": "Learn all about the PnP remote provisioning model.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": ["2819116b-ce59-41aa-8a50-a9cb5af1be45"]
+  }
+]

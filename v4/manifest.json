@@ -1,0 +1,12 @@
+{
+  "Telemetry": { "AppInsightKey": "aff400c9-51ff-4aa7-824b-b2ff3d013fa2" },
+  "Version": {
+    "Manifest": "v4",
+    "ManifestMinWebPart": "4.0.0",
+    "CurrentWebPart": "4.2.0",
+    "RepoURL": "https://hmendoz.github.io/marketing-training/"
+  },
+  "ContentPacks": [],
+  "AssetOrigins": ["https://support.office.com", "https://docs.microsoft.com"],
+  "Languages": ["en-US"]
+}
