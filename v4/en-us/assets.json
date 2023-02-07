@@ -174,5 +174,71 @@
     "Source": "Anderson",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "82c9e85e-a0f8-4896-876b-48141bac0347",
+    "Title": "Introduction",
+    "Description": "",
+    "Url": "https://hmendoz.github.io/marketing-training/v4/en-us/six-appeal/the-messaging/theMessagingOne.html",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "4b7dff8d-667f-4494-ba6b-08fd1433f7d4",
+    "Title": "What do you want your writing to do",
+    "Description": "",
+    "Url": "https://hmendoz.github.io/marketing-training/v4/en-us/six-appeal/the-messaging/theMessagingTwo.html",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "8f4c3b07-9bb1-4cea-bc8b-dd6ec1f11b18",
+    "Title": "Try it yourself",
+    "Description": "",
+    "Url": "https://hmendoz.github.io/marketing-training/v4/en-us/six-appeal/the-messaging/theMessagingThree.html",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "2b5123e9-03af-4b50-8851-8567b21b6ceb",
+    "Title": "Reverse engineering",
+    "Description": "",
+    "Url": "https://hmendoz.github.io/marketing-training/v4/en-us/six-appeal/the-messaging/theMessagingFour.html",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "3ceb9e7d-e0fd-4804-999d-86ea6bd5a430",
+    "Title": "Try it yourself",
+    "Description": "",
+    "Url": "https://hmendoz.github.io/marketing-training/v4/en-us/six-appeal/the-messaging/theMessagingFive.html",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "d1e4f4eb-07bf-4ef3-a68d-10cd502dfc5f",
+    "Title": "Organizing your messaging",
+    "Description": "",
+    "Url": "https://hmendoz.github.io/marketing-training/v4/en-us/six-appeal/the-messaging/theMessagingSix.html",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
 ]
