@@ -240,5 +240,49 @@
     "Source": "Anderson",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "85d9060b-ab4c-4b4b-9683-1a37e607ebae",
+    "Title": "Introduction",
+    "Description": "",
+    "Url": "https://hmendoz.github.io/marketing-training/v4/en-us/six-appeal/supporting-details/supportingDetailsOne.html",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "6d92274a-3955-460a-b57e-c78ddb5bc6da",
+    "Title": "Organizing our messaging into a framework",
+    "Description": "",
+    "Url": "https://hmendoz.github.io/marketing-training/v4/en-us/six-appeal/supporting-details/supportingDetailsTwo.html",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "d2eda5ce-9c09-4fad-9dc8-2cf4994e5a10",
+    "Title": "Fleshing out supporting content around your message",
+    "Description": "",
+    "Url": "https://hmendoz.github.io/marketing-training/v4/en-us/six-appeal/supporting-details/supportingDetailsThree.html",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "a67e961e-ba80-4a71-bf77-49a9684a3b5f",
+    "Title": "Adapting this framework for multiple purposes",
+    "Description": "",
+    "Url": "https://hmendoz.github.io/marketing-training/v4/en-us/six-appeal/supporting-details/supportingDetailsFour.html",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "Anderson",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
 ]
